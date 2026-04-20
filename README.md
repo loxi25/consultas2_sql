@@ -98,3 +98,11 @@ SELECT nombre_empleado , apellidos_empleado FROM empleado , departamento WHERE e
 
 
 ![consulta11](img/consulta11.jpg "consulta11")
+
+
+
+# clausula iner join
+
+![inerjoin](img/inerjoin.png "inerjoin")
+
+![xd](img/xd.png "xd")
